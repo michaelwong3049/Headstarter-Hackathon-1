@@ -1,9 +1,9 @@
 "use client";
 
 import { useChat } from "ai/react";
-import Markdown from "react-markdown";
+import Markdown from 'react-markdown'
 
-export default function Create() {
+export default function Chat() {
   const { messages, input, handleInputChange, handleSubmit } = useChat();
 
   return (
