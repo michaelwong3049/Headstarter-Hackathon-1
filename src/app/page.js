@@ -6,7 +6,7 @@ export default function Home() {
     <div className="border border-black">
       <div className="flex flex-col max-w-sm w-full border border-black">
         <div className="bg-cyan-400 p-6 font-bold text-4xl rounded-2xl my-4">
-          <Link href="/study-plans/Create">+Create</Link>
+          <Link href="/study-plans/create-plan">+Create</Link>
         </div>
 
         <div className="inline-block bg-orange-400 p-6 font-bold text-2xl rounded-2xl my-4">
