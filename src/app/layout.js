@@ -13,7 +13,7 @@ export default function RootLayout({ children }) {
         <header className="mb-4">
           <div className="bg-orange-400 p-8">
             <h1 className="inline-block bg-white p-4 rounded-2xl text-5xl ml-20 font-bold">
-              <Link href="/">CodeLeet</Link>
+              <Link href="/">StudyBlueprint</Link>
             </h1>
           </div>
         </header>
